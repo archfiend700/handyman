@@ -12,13 +12,9 @@
 (function () {
   'use strict';
 
-  /* ======================================================================
-     0. CONFIG — edit these two lines to point at your own Ko-fi /
-        Buy Me a Coffee / other support page. Everything else updates
-        automatically (topbar button + Home page card).
-     ====================================================================== */
+  
   const CONFIG = {
-    supportUrl: 'https://ko-fi.com/yourhandle', // TODO: replace with your real support page URL
+    supportUrl: 'https://ko-fi.com/guardora', 
     supportPlatform: 'Ko-fi'
   };
 
