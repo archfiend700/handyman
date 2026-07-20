@@ -13,3 +13,6 @@ Features:
 ⭐ Repair difficulty ratings
 ⏱️ Estimated repair times
 💡 Safety tips and best practices
+
+
+Page live at https://archfiend700.github.io/handyman/
